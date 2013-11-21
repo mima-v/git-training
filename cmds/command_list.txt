@@ -26,5 +26,8 @@ The most commonly used git commands are:
    show       Show various types of objects
    status     Show the working tree status
    tag        Create, list, delete or verify a tag object signed with GPG
-
-See 'git help <command>' for more information on a specific command.
+ghhghghgh
+GItの勉強会See 'git help <command>' for more information on a specific commandt
+t
+t
+.
